@@ -1,0 +1,85 @@
+C:\Users\Hewlett-Packard\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\Hewlett-Packard\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\Hewlett-Packard\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\Hewlett-Packard\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\Hewlett-Packard\Desktop\WinFormsApp1\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\Hewlett-Packard\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\Hewlett-Packard\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\Hewlett-Packard\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\Hewlett-Packard\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hewlett-Packard\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\Hewlett-Packard\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\Hewlett-Packard\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Hewlett-Packard\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\Hewlett-Packard\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\Hewlett-Packard\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\Hewlett-Packard\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\Hewlett-Packard\Desktop\WinFormsApp1\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\Hewlett-Packard\Desktop\proje\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\Hewlett-Packard\Desktop\proje\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\Hewlett-Packard\Desktop\proje\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\Hewlett-Packard\Desktop\proje\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\Hewlett-Packard\Desktop\proje\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\Hewlett-Packard\Desktop\proje\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\Hewlett-Packard\Desktop\proje\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\Hewlett-Packard\Desktop\proje\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\Hewlett-Packard\Desktop\proje\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hewlett-Packard\Desktop\proje\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\Hewlett-Packard\Desktop\proje\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\Hewlett-Packard\Desktop\proje\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Hewlett-Packard\Desktop\proje\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\Hewlett-Packard\Desktop\proje\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\Hewlett-Packard\Desktop\proje\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\Hewlett-Packard\Desktop\proje\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\Hewlett-Packard\Desktop\proje\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+D:\forms\depo program\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+D:\forms\depo program\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+D:\forms\depo program\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+D:\forms\depo program\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+D:\forms\depo program\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+D:\forms\depo program\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+D:\forms\depo program\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Properties.Resources.resources
+D:\forms\depo program\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+D:\forms\depo program\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\forms\depo program\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+D:\forms\depo program\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+D:\forms\depo program\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+D:\forms\depo program\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+D:\forms\depo program\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+D:\forms\depo program\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+D:\forms\depo program\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+D:\forms\depo program\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+D:\stok_program\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+D:\stok_program\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+D:\stok_program\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+D:\stok_program\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+D:\stok_program\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+D:\stok_program\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+D:\stok_program\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Properties.Resources.resources
+D:\stok_program\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+D:\stok_program\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\stok_program\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+D:\stok_program\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+D:\stok_program\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+D:\stok_program\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+D:\stok_program\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+D:\stok_program\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+D:\stok_program\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+D:\stok_program\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
+C:\Users\Hewlett-Packard\Desktop\stok_program\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\Hewlett-Packard\Desktop\stok_program\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\Hewlett-Packard\Desktop\stok_program\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\Hewlett-Packard\Desktop\stok_program\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\Hewlett-Packard\Desktop\stok_program\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\Hewlett-Packard\Desktop\stok_program\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\Hewlett-Packard\Desktop\stok_program\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Properties.Resources.resources
+C:\Users\Hewlett-Packard\Desktop\stok_program\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\Hewlett-Packard\Desktop\stok_program\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hewlett-Packard\Desktop\stok_program\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\Hewlett-Packard\Desktop\stok_program\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\Hewlett-Packard\Desktop\stok_program\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Hewlett-Packard\Desktop\stok_program\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\Hewlett-Packard\Desktop\stok_program\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\Hewlett-Packard\Desktop\stok_program\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\Hewlett-Packard\Desktop\stok_program\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\Hewlett-Packard\Desktop\stok_program\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
